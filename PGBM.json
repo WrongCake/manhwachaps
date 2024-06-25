@@ -4,5 +4,14 @@
   "artist": "Lee Soo-yeon",
   "author": "Super Bunny",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "30": {
+      "title": "30",
+      "volume": "30",
+      "last_updated": "1719322800",
+      "groups": {
+        "FleX Scans": "/proxy/api/imgur/chapter/FdebanX"
+      }
+    }
+  }
 }
