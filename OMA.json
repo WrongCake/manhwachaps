@@ -11,8 +11,7 @@
       "last_updated": "1719576900",
       "groups": {
         "FleX Scans": "/proxy/api/imgur/chapter/CHVetZf"
-      },
-      "content": "Chapter 11 content..."
+      }
     },
     "12": {
       "title": "12",
@@ -20,8 +19,7 @@
       "last_updated": "1719578580",
       "groups": {
         "FleX Scans": "/proxy/api/imgur/chapter/lyzx0Y8"
-      },
-      "content": "Chapter 12 content..."
+      }
     },
     "13": {
       "title": "13",
@@ -29,8 +27,7 @@
       "last_updated": "1719643620",
       "groups": {
         "FleX Scans": "/proxy/api/imgur/chapter/LQHCXe4"
-      },
-      "content": "Chapter 13 content..."
+      }
     }
   }
 }
