@@ -7,7 +7,7 @@
   "chapters": {
     "30": {
       "title": "30",
-      "volume": "30",
+      "volume": "1",
       "last_updated": "1719322800",
       "groups": {
         "FleX Scans": "/proxy/api/imgur/chapter/FdebanX"
@@ -15,7 +15,7 @@
     },
     "31": {
       "title": "31",
-      "volume": "31",
+      "volume": "1",
       "last_updated": "1720004491",
       "groups": {
         "FleX Scans": "/proxy/api/imgbox/chapter/Ln82ww2pIC"
@@ -23,10 +23,18 @@
     },
     "32": {
       "title": "32",
-      "volume": "32",
+      "volume": "1",
       "last_updated": "1720022200",
       "groups": {
         "FleX Scans": "/proxy/api/imgur/chapter/5bHUJs2"
+      }
+    },
+    "33": {
+      "title": "33",
+      "volume": "1",
+      "last_updated": "1721369788",
+      "groups": {
+        "FleX Scans": "/proxy/api/imgbox/chapter/ZsEKwmj5pL"
       }
     }
   }
