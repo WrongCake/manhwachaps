@@ -4,5 +4,14 @@
   "artist": "Sato",
   "author": "Oturin",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "29": {
+      "title": "29",
+      "volume": "1",
+      "last_updated": "1721655507",
+      "groups": {
+        "MiraSeggsFleggs": "/proxy/api/imgur/chapter/F5BlYaq"
+      }
+    }
+  }
 }
