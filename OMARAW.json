@@ -4,5 +4,30 @@
   "artist": "Holy Water",
   "author": "Playful Deer",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "19": {
+      "title": "19",
+      "volume": "1",
+      "last_updated": "1721830253",
+      "groups": {
+        "MiraSeggsFleggs": "/proxy/api/imgur/chapter/B2H5MUv"
+      }
+    },
+    "20": {
+      "title": "20",
+      "volume": "1",
+      "last_updated": "1721830363",
+      "groups": {
+        "MiraSeggsFleggs": "/proxy/api/imgur/chapter/cYcMGaU"
+      }
+    },
+    "21": {
+      "title": "21",
+      "volume": "1",
+      "last_updated": "1721830370",
+      "groups": {
+        "MiraSeggsFleggs": "/proxy/api/imgur/chapter/hfWMMd7"
+      }
+    }
+  }
 }
