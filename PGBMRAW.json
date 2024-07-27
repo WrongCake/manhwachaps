@@ -4,5 +4,46 @@
   "artist": "Lee Su-yeon",
   "author": "Super Bunny",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "35": {
+      "title": "35",
+      "volume": "1",
+      "last_updated": "1722082980",
+      "groups": {
+        "MiraSeggsFleggs": "/proxy/api/imgur/chapter/p05wW3l"
+      }
+    },
+    "36": {
+      "title": "36",
+      "volume": "1",
+      "last_updated": "1722082997",
+      "groups": {
+        "MiraSeggsFleggs": "/proxy/api/imgur/chapter/5AL7FVp"
+      }
+    },
+    "37": {
+      "title": "37",
+      "volume": "1",
+      "last_updated": "1722083107",
+      "groups": {
+        "MiraSeggsFleggs": "/proxy/api/imgur/chapter/nwIIIr1"
+      }
+    },
+    "38": {
+      "title": "38",
+      "volume": "1",
+      "last_updated": "1722083113",
+      "groups": {
+        "MiraSeggsFleggs": "/proxy/api/imgur/chapter/cyNLDHr"
+      }
+    },
+    "39": {
+      "title": "39",
+      "volume": "1",
+      "last_updated": "1722083145",
+      "groups": {
+        "MiraSeggsFleggs": "/proxy/api/imgur/chapter/TLYLFlK"
+      }
+    }
+  }
 }
