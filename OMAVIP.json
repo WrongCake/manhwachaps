@@ -52,6 +52,22 @@
       "groups": {
         "FleX Scans": "/proxy/api/imgur/chapter/x5qCmyZ"
       }
+    },
+    "20": {
+      "title": "20",
+      "volume": "1",
+      "last_updated": "1723535019",
+      "groups": {
+        "FleX Scans": "/proxy/api/imgbox/chapter/9Sh0cxKxM6"
+      }
+    },
+    "21": {
+      "title": "21",
+      "volume": "1",
+      "last_updated": "1723535140",
+      "groups": {
+        "FleX Scans": "/proxy/api/imgbox/chapter/bk0thAqZq3"
+      }
     }
   }
 }
