@@ -4,5 +4,14 @@
   "artist": "Zunker",
   "author": "Skylark",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "39": {
+      "title": "39",
+      "volume": "1",
+      "last_updated": "1723715462",
+      "groups": {
+        "FleX Scans": "/proxy/api/imgbox/chapter/MZ1GAkvoWJ"
+      }
+    }
+  }
 }
