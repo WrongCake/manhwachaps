@@ -4,5 +4,14 @@
   "artist": "Nogogi",
   "author": "Nogogi",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1723989891",
+      "groups": {
+        "FleX Scans": "/proxy/api/imgbox/chapter/ypx19huWaj"
+      }
+    }
+  }
 }
