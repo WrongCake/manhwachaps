@@ -53,12 +53,28 @@
         "FleX Scans": "/proxy/api/imgbox/chapter/w2ZOScghHZ"
       }
     },
+    "37": {
+      "title": "37",
+      "volume": "1",
+      "last_updated": "1724591897",
+      "groups": {
+        "FleX Scans": "/proxy/api/imgbox/chapter/RUmtkTdk0M"
+      }
+    },
     "38": {
       "title": "38",
       "volume": "1",
       "last_updated": "1724382063",
       "groups": {
         "FleX Scans": "/proxy/api/imgbox/chapter/bg5OgICDAT"
+      }
+    },
+    "39": {
+      "title": "39",
+      "volume": "1",
+      "last_updated": "1724592475",
+      "groups": {
+        "FleX Scans": "/proxy/api/imgbox/chapter/S208hr15zG"
       }
     }
   }
