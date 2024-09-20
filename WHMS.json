@@ -1,8 +1,17 @@
 {
-  "title": "WHMS",
+  "title": "What Happened at the Hypnosis Massage Shop",
   "description": " Heejoo, struggling to maintain her exhausting work life, comes across a flyer one day:\n[Women-only Healing Massage Shop – OPEN EVENT!]\nAn intimate massage that soothes her deep-seated fatigue begins…\n",
   "artist": "Alice Crazy",
   "author": "Neulhana",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1726843013",
+      "groups": {
+        "FleX Scans": "/proxy/api/imgbox/chapter/"
+      }
+    }
+  }
 }
